@@ -87,4 +87,9 @@ if tabla is not None:
 # cd "\\urano\Empresa\2025\Dep. de Ingeniería\Dep. Ing Eléctrica\A. de Ing\Proyectos\0. Python\Consultor_tablas_Trafo_web"
 # streamlit run app_streamlit.py
 
+
 #  git add ., git commit -m "Corrijo requirements" y git push
+
+#  git add ., git commit -m "Corrijo requirements" y git push
+
+# git pull origin main --allow-unrelated-histories 
