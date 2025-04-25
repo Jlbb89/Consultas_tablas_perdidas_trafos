@@ -1,7 +1,9 @@
 Consultas de Tablas de Pérdidas de Transformadores
+
 🚀 Aplicación desarrollada en Python usando Streamlit para consultar valores de pérdidas (sin carga, con carga y totales) de transformadores de distribución, interpolando los valores si la potencia solicitada no existe exactamente en las tablas normadas.
 
 📄 Descripción del proyecto
+
 Esta herramienta permite:
 
 Seleccionar una norma técnica nacional o internacional.
@@ -59,13 +61,14 @@ bash
 Copiar
 Editar
 streamlit run app_streamlit.py
+
 🌍 Publicación en la Web
 Esta aplicación puede ser desplegada de manera gratuita usando Streamlit Cloud.
 
 👨‍💻 Autor
 Ing. Jose Luis Barreto B.
 💼 Especialista en Transformadores y Análisis de Pérdidas
-✉️ [Tu email aquí si quieres ponerlo]
+✉️ ing.joselbarreto@gmail.com
 
 📝 Licencia
 Este proyecto está licenciado bajo los términos de la Licencia MIT.
