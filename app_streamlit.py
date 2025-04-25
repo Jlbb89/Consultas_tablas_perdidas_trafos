@@ -94,3 +94,6 @@ if tabla is not None:
 #git add .
 #git commit -m "Resolviendo conflicto de pull inicial"
 #git push -u origin main
+
+#Esto sobrescribirá el contenido remoto con lo que tienes en tu carpeta
+#git push -f origin main
