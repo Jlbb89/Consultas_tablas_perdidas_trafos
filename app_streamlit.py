@@ -50,7 +50,7 @@ if os.path.exists("logo.png"):
 archivos = {
     "Norma INEN 2115-3F Aceite (<25kV / <1.2kV)": "Norma_inen_2115_3f_Aceite.prn",
     "Norma INEN 2114-1F Aceite (<25kV / <1.2kV)": "Norma_inen_2114_1F_Aceite.prn",
-    "Norma NTC 819-3F Aceite (<15kV / <1.2kV)": "Nomra_NTC_819_3F_Aceite.prn",
+    "Norma NTC 819-3F Aceite (<15kV / <1.2kV)": "Norma_NTC_819_3F_Aceite.prn",
     "Norma NTC 3445-3F Seco (<1.2kV / <1.2kV)": "Norma_NTC_3445_3f_Seco.prn",
     "Norma NTC 3445-3F Seco (<15kV / <1.2kV)": "Norma_NTC_3445_3f_Seco_AT.prn",
     "Norma RVR-3F Petroleos": "Norma_RVR_3f_Petroleos.prn"
@@ -88,8 +88,9 @@ if tabla is not None:
 # streamlit run app_streamlit.py
 
 
-#  git add ., git commit -m "Corrijo requirements" y git push
-
-#  git add ., git commit -m "Corrijo requirements" y git push
-
-# git pull origin main --allow-unrelated-histories 
+# Para subir cambios a GitHub
+# cd "\\urano\Empresa\2025\Dep. de Ingeniería\Dep. Ing Eléctrica\A. de Ing\Proyectos\0. Python\Consultor_tablas_Trafo_web"
+#git status
+#git add .
+#git commit -m "Resolviendo conflicto de pull inicial"
+#git push -u origin main
