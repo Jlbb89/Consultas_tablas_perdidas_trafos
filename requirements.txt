@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-streamlit
-pandas
-=======
-streamlit
-pandas
->>>>>>> b2de24ead76517dfc5e6b4f0687462e6d15d04b2
+streamlit>=1.25.0
+pandas>=1.5.0
